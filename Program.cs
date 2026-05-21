@@ -30,7 +30,7 @@ namespace DotNetxAnthropic
                     new MessageParam
                     {
                         Role = Role.User,
-                        Content = "Write a code to say - Peace!"
+                        Content = "Write a code in c# to say - Peace!"
                     }
                 ]
             };
